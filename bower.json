@@ -1,0 +1,23 @@
+{
+  "name": "Angular-Controller",
+  "homepage": "https://github.com/edWAR6/Angular-Controller",
+  "description": "Angular project with a controller",
+  "main": "index.html",
+  "keywords": [
+    "AngularJS"
+  ],
+  "authors": [
+    "Eduardo Oviedo Blanco"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#^1.5.6"
+  }
+}
